@@ -1,4 +1,0 @@
-4 2200 LEGENDÁS ÁLLATOK                                 MISZTIKUS            JK ROWLING                                         4
-5 5000 MAKK MARCI                                         KALAND               ÁRPÁD BÉLA                                      5
-2 2000 A MÁSIK KÖNYV                                    LÍRA                VALAKI                                             2
-3 2200 HARRY POTTER                                       MISZTIKUS            JK ROWLING                                         3
